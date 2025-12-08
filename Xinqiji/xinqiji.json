@@ -1,0 +1,84 @@
+{
+  "poem_id": "xqj_001",
+  "title": "元日",
+  "author": "辛弃疾",
+  "dynasty": "南宋",
+  "dynasty_time": "嘉泰三年（约）",
+  "year": 1203,
+  "cipai": "七言绝句",
+  "location": "铅山（闲居地）",
+  "content": {
+    "stanzas": [
+      {
+        "text": "老病忘时节，",
+        "line_number": 1
+      },
+      {
+        "text": "空斋晓尚眠。",
+        "line_number": 2
+      },
+      {
+        "text": "儿童唤老翁起，",
+        "line_number": 3
+      },
+      {
+        "text": "今日是新年。",
+        "line_number": 4
+      }
+    ]
+  },
+  "annotations": {
+    "general_notes": "此诗作于嘉泰三年(1203),先写病老忘时,晓眠空斋,再写儿童早起,欢度新春.后者因了前者的铺垫衬托,一'唤'而生机顿出,于老病情怀中写出安逸闲散.全篇抱定试题,写来平易自然.这是一首以诙谐笔调写出新年景况的绝句。诗人因年老多病，心境凄凉，以至于忘了时节，清晨还在睡梦之中。全诗平淡自然，流露出闲居无聊、壮志消沉的无奈，也可见诗人晚年生活的自适。",
+    "word_annotations": [
+      {
+        "word": "元日",
+        "pinyin": "yuán rì",
+        "meaning": "指农历正月初一，即新年。",
+        "source_line": 4
+      },
+      {
+        "word": "老病",
+        "pinyin": "lǎo bìng",
+        "meaning": "年老多病，指作者自己。辛弃疾晚年多疾。",
+        "source_line": 1
+      },
+      {
+        "word": "时节",
+        "pinyin": "shí jié",
+        "meaning": "时令节气，这里特指新年元旦。",
+        "source_line": 1
+      },
+      {
+        "word": "空斋",
+        "pinyin": "kōng zhāi",
+        "meaning": "空寂冷清的书斋或居室。体现了诗人闲居的寂寞。",
+        "source_line": 2
+      },
+      {
+        "word": "晓尚眠",
+        "pinyin": "xiǎo shàng mián",
+        "meaning": "清晨还在睡。’晓’指清晨。’尚’指还，仍然。",
+        "source_line": 2
+      },
+      {
+        "word": "老翁",
+        "pinyin": "lǎo wēng",
+        "meaning": "老人，指诗人自己。",
+        "source_line": 3
+      },
+      {
+        "word": "新年",
+        "pinyin": "xīn nián",
+        "meaning": "新的一年。",
+        "source_line": 4
+      }
+    ]
+  },
+  "remarks": "此诗是其《稼轩集》中的一首。",
+  "tags": [
+    "绝句",
+    "闲居",
+    "新年",
+    "生活"
+  ]
+}
