@@ -1,84 +1,147 @@
-{
-  "poem_id": "xqj_001",
-  "title": "元日",
-  "author": "辛弃疾",
-  "dynasty": "南宋",
-  "dynasty_time": "嘉泰三年（约）",
-  "year": 1203,
-  "cipai": "七言绝句",
-  "location": "铅山（闲居地）",
-  "content": {
-    "stanzas": [
-      {
-        "text": "老病忘时节，",
-        "line_number": 1
-      },
-      {
-        "text": "空斋晓尚眠。",
-        "line_number": 2
-      },
-      {
-        "text": "儿童唤老翁起，",
-        "line_number": 3
-      },
-      {
-        "text": "今日是新年。",
-        "line_number": 4
-      }
+[
+  {
+    "poem_id": "xqj_001",
+    "title": "元日",
+    "author": "辛弃疾",
+    "dynasty": "南宋",
+    "dynasty_time": "嘉泰三年（约）",
+    "year": 1203,
+    "cipai": "七言绝句",
+    "location": "铅山（闲居地）",
+    "content": {
+      "stanzas": [
+        {
+          "text": "老病忘时节，",
+          "line_number": 1,
+          "translation": "年老多病以至于忘却了时令节气，"
+        },
+        {
+          "text": "空斋晓尚眠。",
+          "line_number": 2,
+          "translation": "空寂的居室(书斋)里，大清早还躺在床上睡觉。"
+        },
+        {
+          "text": "儿童唤老翁起，",
+          "line_number": 3,
+          "translation": "家中的儿童们叫醒我说：“老爷爷快来"
+        },
+        {
+          "text": "今日是新年。",
+          "line_number": 4,
+          "translation": "（才恍然惊觉）原来今天已是新的一年"
+        }
+      ]
+    },
+    "annotations": {
+      "general_notes": "此诗作于嘉泰三年(1203),先写病老忘时,晓眠空斋,再写儿童早起,欢度新春.后者因了前者的铺垫衬托,一'唤'而生机顿出,于老病情怀中写出安逸闲散.全篇抱定试题,写来平易自然.这是一首以诙谐笔调写出新年景况的绝句。《稼轩集》如是描述辛弃疾的交友情况：“先生交游虽广，但择友甚严。唯与朱晦翁、陈同甫二人交情最笃”。也就是说，辛弃疾只把朱熹和陈亮二人，视为自己的朋友。",
+      "word_annotations": [
+        {
+          "word": "元日",
+          "pinyin": "yuán rì",
+          "meaning": "指农历正月初一，即新年,此诗又名《癸亥元日题克己复礼斋》,崇文馆注释为诗题:《诗渊》作:“癸亥元日题克己复礼斋”。《宋史》本传:“弃疾尝同朱熹游武夷山,赋九曲棹歌,朱书'克己复礼','夙兴夜寐',题其二斋室。”",
+          "source_line": 0
+        },
+        {
+          "word": "时节",
+          "pinyin": "shí jié",
+          "meaning": "时令节气，这里特指新年元旦。",
+          "source_line": 1
+        },
+        {
+          "word": "斋",
+          "pinyin": "zhāi",
+          "meaning": "屋舍，多指书房，学舍。此突出一“空”字，言孤独寂寞之状。",
+          "source_line": 2
+        }
+      ]
+    },
+    "source": "《稼轩集》卷九(存疑)，也可能是",
+    "relative": {
+      "title": "九曲棹歌",
+      "author": "朱熹",
+      "poem_id": "null",
+      "reason": "朱熹曾和辛弃疾一同游览武夷山作《九曲棹歌》,辛弃疾在与朱熹同游后，拥有了一个由朱熹题写“克己复礼”匾额的书斋。在1203年（癸亥年）的正月初一（元日），他于这个书斋中创作了这首诗。因此，这首诗在《诗渊》中被完整地记录为《癸亥元日题克己复礼斋》。"
+    },
+    "tags": [
+      "绝句",
+      "闲居",
+      "新年"
     ]
   },
-  "annotations": {
-    "general_notes": "此诗作于嘉泰三年(1203),先写病老忘时,晓眠空斋,再写儿童早起,欢度新春.后者因了前者的铺垫衬托,一'唤'而生机顿出,于老病情怀中写出安逸闲散.全篇抱定试题,写来平易自然.这是一首以诙谐笔调写出新年景况的绝句。诗人因年老多病，心境凄凉，以至于忘了时节，清晨还在睡梦之中。全诗平淡自然，流露出闲居无聊、壮志消沉的无奈，也可见诗人晚年生活的自适。",
-    "word_annotations": [
-      {
-        "word": "元日",
-        "pinyin": "yuán rì",
-        "meaning": "指农历正月初一，即新年。",
-        "source_line": 4
-      },
-      {
-        "word": "老病",
-        "pinyin": "lǎo bìng",
-        "meaning": "年老多病，指作者自己。辛弃疾晚年多疾。",
-        "source_line": 1
-      },
-      {
-        "word": "时节",
-        "pinyin": "shí jié",
-        "meaning": "时令节气，这里特指新年元旦。",
-        "source_line": 1
-      },
-      {
-        "word": "空斋",
-        "pinyin": "kōng zhāi",
-        "meaning": "空寂冷清的书斋或居室。体现了诗人闲居的寂寞。",
-        "source_line": 2
-      },
-      {
-        "word": "晓尚眠",
-        "pinyin": "xiǎo shàng mián",
-        "meaning": "清晨还在睡。’晓’指清晨。’尚’指还，仍然。",
-        "source_line": 2
-      },
-      {
-        "word": "老翁",
-        "pinyin": "lǎo wēng",
-        "meaning": "老人，指诗人自己。",
-        "source_line": 3
-      },
-      {
-        "word": "新年",
-        "pinyin": "xīn nián",
-        "meaning": "新的一年。",
-        "source_line": 4
-      }
+  {
+    "poem_id": "xqj_002",
+    "title": "偶题",
+    "author": "辛弃疾",
+    "dynasty": "南宋",
+    "dynasty_time": "嘉泰三年",
+    "year": 1203,
+    "cipai": "七言绝句",
+    "location": "铅山（闲居地）",
+    "content": {
+      "stanzas": [
+        {
+          "text": "逢花眼倦开，",
+          "line_number": 1,
+          "translation": "遇到花开也懒得睁眼去欣赏，"
+        },
+        {
+          "text": "见酒手频推。",
+          "line_number": 2,
+          "translation": "见到美酒也一再摆手推开。"
+        },
+        {
+          "text": "不恨吾年老，",
+          "line_number": 3,
+          "translation": "并不怨恨我自己的年纪已经老迈，"
+        },
+        {
+          "text": "恨他将病来。",
+          "line_number": 4,
+          "translation": "只恨它（年老）把疾病带来了。"
+        }
+      ]
+    },
+    "annotations": {
+      "general_notes": "这首诗应与《元日》作于同年，即嘉泰三年（1203年），是辛弃疾在铅山闲居时期所作，同样流露出病中闲居的复杂心境。前两句以'倦开'、'频推'描写因病而丧失欣赏花、饮酒的兴致。后两句更深一层，将'老'与'病'分开，点明是病痛而非衰老本身，才让人心生怨恨，更显出豪放词人被病魔困顿的无奈与不甘。",
+      "word_annotations": [
+        {
+          "word": "偶题",
+          "pinyin": "ǒu tí",
+          "meaning": "即兴题写、随手写下的诗。",
+          "source_line": 0
+        },
+        {
+          "word": "倦开",
+          "pinyin": "juàn kāi",
+          "meaning": "因疲倦而懒得睁开。指无心欣赏。",
+          "source_line": 1
+        },
+        {
+          "word": "频推",
+          "pinyin": "pín tuī",
+          "meaning": "连连推辞。辛弃疾素爱饮酒，此处推酒更显出病势沉重。",
+          "source_line": 2
+        },
+        {
+          "word": "他",
+          "pinyin": "tā",
+          "meaning": "指代'病'，是一种拟人化或指代性用法。",
+          "source_line": 4
+        }
+      ]
+    },
+    "source": "《稼轩集》卷九",
+    "relative": {
+      "title": "元日",
+      "author": "辛弃疾",
+      "poem_id": "xqj_001",
+      "reason": "两诗作于同一年（嘉泰三年），且都描写了辛弃疾晚年病居铅山、百无聊赖的闲居生活和心情，题材和情境上高度关联。"
+    },
+    "tags": [
+      "绝句",
+      "闲居",
+      "年老",
+      "自叹"
     ]
-  },
-  "remarks": "此诗是其《稼轩集》中的一首。",
-  "tags": [
-    "绝句",
-    "闲居",
-    "新年",
-    "生活"
-  ]
-}
+  }
+]
